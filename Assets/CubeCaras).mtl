@@ -1,0 +1,5 @@
+newmtl Faces
+map_Kd UV_ProjectionPaint.png
+Kd 1 1 1
+d 1
+
